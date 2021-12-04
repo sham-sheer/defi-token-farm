@@ -29,7 +29,7 @@ Please install or have installed the following:
 - [python](https://www.python.org/downloads/)
 ## Installation
 
-1. [Install Brownie](https://eth-brownie.readthedocs.io/en/stable/install.html), if you haven't already. Here is a simple way to install brownie.
+1. [Install Brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
 
 ```bash
 pip install --user pipx
